@@ -11,8 +11,6 @@ int main(int argc, char const *argv[])
 	{
 		scanf("%d",&arr[i]);
 	}
-
-
 	printf("And your array is::\n");
 	for ( j = 0; j < n; ++j)
 	{
