@@ -1,0 +1,4 @@
+Logically it’s seems impossible to write a C program without using a main() function. Since every program must have a main() function because:-
+
+    It’s an entry point of every C/C++ program.
+    All Predefined and User-defined Functions are called directly or indirectly through the main.
