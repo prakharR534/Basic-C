@@ -5,6 +5,7 @@ int main(int argc, char const *argv[])
 	int arr[100], n,i,j;
 	
 	printf("Enter number of elements in array\n");
+	
 	scanf("%d",&n);
 
 	printf("Enter %d elements of array\n",n );
